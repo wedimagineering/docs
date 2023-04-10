@@ -22,3 +22,7 @@ Strongly recommended but **optional**, attraction scripts are very useful in pro
 {% content-ref url="mad-tea-party.md" %}
 [mad-tea-party.md](mad-tea-party.md)
 {% endcontent-ref %}
+
+{% content-ref url="soarin.md" %}
+[soarin.md](soarin.md)
+{% endcontent-ref %}

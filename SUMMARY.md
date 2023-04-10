@@ -12,7 +12,7 @@
   * [Big Thunder Mountain Railroad](handbooks/operations/big-thunder-mountain-railroad.md)
   * [Tower of Terror](handbooks/operations/tower-of-terror.md)
   * [Mad Tea Party](handbooks/operations/mad-tea-party.md)
-  * [Soarin' Manual](handbooks/operations/soarin-manual.md)
+  * [Soarin'](handbooks/operations/soarin.md)
 * [Entertainment](handbooks/entertainment/README.md)
   * [Entertainment Rules](handbooks/entertainment/entertainment-rules.md)
   * [Character Control](handbooks/entertainment/character-control.md)

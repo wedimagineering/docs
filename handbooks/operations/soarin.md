@@ -2,6 +2,6 @@
 description: Please see the soarin' manual, attached below.
 ---
 
-# Soarin' Manual
+# Soarin'
 
 {% file src="../../.gitbook/assets/manualV1.pdf" %}
