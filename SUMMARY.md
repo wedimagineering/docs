@@ -16,4 +16,4 @@
 * [Entertainment](handbooks/entertainment/README.md)
   * [Entertainment Rules](handbooks/entertainment/entertainment-rules.md)
   * [Character Control](handbooks/entertainment/character-control.md)
-  * [Temporary Panel Instructions](handbooks/entertainment/temporary-panel-instructions.md)
+  * [Meet & Greet Panel](handbooks/entertainment/meet-and-greet-panel.md)
