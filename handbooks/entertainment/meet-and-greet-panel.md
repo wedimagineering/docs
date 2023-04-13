@@ -10,11 +10,11 @@ Below are the buttons and their purposes, along with extra information.
 
 <figure><img src="../../.gitbook/assets/MG_Panel.png" alt=""><figcaption><p>Meet &#x26; Greet Labelled Panel</p></figcaption></figure>
 
-\[1] - This is the power button, this is the first and last thing that you will click when operating. (PLEASE NOTE - TURNING THIS OFF KICKS EVERYONE OUT OF THE QUEUE)
+\[1] - This is the power button, this is the first and last thing that you will click when operating, this button opens and closes the queue. (PLEASE NOTE - TURNING THIS OFF KICKS EVERYONE OUT OF THE QUEUE)
 
 
 
-\[2] - This opens and closes the queue. (PLEASE NOTE - TURNING THIS OFF KICKS EVERYONE OUT OF THE QUEUE)
+\[2] - \*\***WITHDRAWN - PENDING IMAGE CHANGE - SEE BUTTON 1**\*\* ~~This opens and closes the queue. (PLEASE NOTE - TURNING THIS OFF KICKS EVERYONE OUT OF THE QUEUE)~~&#x20;
 
 
 
