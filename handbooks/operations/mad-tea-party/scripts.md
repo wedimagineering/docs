@@ -7,7 +7,7 @@ description: >-
 
 # Scripts
 
-### Entrance Gate
+### Entrance gate
 
 > Ladies and gentlemen welcome to the Mad Tea Party! Please take a seat in one of the available teacups, and you’ll be on your way soon!
 

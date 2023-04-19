@@ -8,8 +8,10 @@
 ## 📑 Handbooks
 
 * [Operations](handbooks/operations/README.md)
-  * [🎢 Rock 'n' Roller Coaster](handbooks/operations/rock-n-roller-coaster.md)
-  * [🚂 Big Thunder Mountain Railroad](handbooks/operations/big-thunder-mountain-railroad.md)
+  * [🎢 Rock 'n' Roller Coaster](handbooks/operations/rock-n-roller-coaster/README.md)
+    * [Scripts](handbooks/operations/rock-n-roller-coaster/scripts.md)
+  * [🚂 Big Thunder Mountain Railroad](handbooks/operations/big-thunder-mountain-railroad/README.md)
+    * [Scripts](handbooks/operations/big-thunder-mountain-railroad/scripts.md)
   * [🏨 Tower of Terror](handbooks/operations/tower-of-terror/README.md)
     * [Scripts](handbooks/operations/tower-of-terror/scripts.md)
   * [☕ Mad Tea Party](handbooks/operations/mad-tea-party/README.md)

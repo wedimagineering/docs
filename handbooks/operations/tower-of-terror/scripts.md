@@ -19,7 +19,7 @@ description: >-
 
 > Please exit the library through the door on your right and head towards the elevators. Your rooms are now ready.
 
-### Load Elevator
+### Load elevator
 
 > Greetings, I am your Bellhop for today. Please find a number to stand on, the elevator will arrive shortly.
 
@@ -31,6 +31,6 @@ description: >-
 
 > Any last-minute questions or concerns? Too late!
 
-### Unload Elevator
+### Unload elevator
 
 > Welcome back, I’m glad to see you all are still here and in one piece. Please exit to your left, and do drop with us again. Farewell.

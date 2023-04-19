@@ -7,12 +7,12 @@ Welcome onboard our operations department, we've created and provided documents 
 Strongly recommended but **optional**, attraction scripts are very useful in providing a sense of realism and a better experience while operating attractions.
 {% endhint %}
 
-{% content-ref url="rock-n-roller-coaster.md" %}
-[rock-n-roller-coaster.md](rock-n-roller-coaster.md)
+{% content-ref url="rock-n-roller-coaster/" %}
+[rock-n-roller-coaster](rock-n-roller-coaster/)
 {% endcontent-ref %}
 
-{% content-ref url="big-thunder-mountain-railroad.md" %}
-[big-thunder-mountain-railroad.md](big-thunder-mountain-railroad.md)
+{% content-ref url="big-thunder-mountain-railroad/" %}
+[big-thunder-mountain-railroad](big-thunder-mountain-railroad/)
 {% endcontent-ref %}
 
 {% content-ref url="tower-of-terror/" %}

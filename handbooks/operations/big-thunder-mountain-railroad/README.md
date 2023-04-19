@@ -1,12 +1,16 @@
 ---
-description: Mad Tea Party has two different panels. One main panel and one side panel.
+description: >-
+  Big Thunder Mountain Railroad has two different panels. One main panel and one
+  side panel.
 ---
 
-# ☕ Mad Tea Party
+# 🚂 Big Thunder Mountain Railroad
 
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)
 {% endcontent-ref %}
+
+{% file src="../../../.gitbook/assets/Big Thunder Mountain Railroad Manual" %}
 
 ### Incident Management
 

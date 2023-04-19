@@ -1,12 +1,26 @@
 ---
-description: Mad Tea Party has two different panels. One main panel and one side panel.
+description: >-
+  Rock 'n' Roller Coaster has five different panels. One greeter panel, one
+  preshow panel, one load panel, one side panel, and one unload panel.
 ---
 
-# ☕ Mad Tea Party
+# 🎢 Rock 'n' Roller Coaster
 
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)
 {% endcontent-ref %}
+
+{% file src="../../../.gitbook/assets/Rock 'n' Roller Coaster Manual" %}
+
+### Staff Commands
+
+You can use the following commands to teleport you around the game:
+
+* **/stp a**: Teleports you to the greeter panel, specifically outside of the preshow room.
+* **/stp p**: Teleports you outside of the pre-show, specifically in the clock room.
+* **/stp l**: Teleports you to the load platform, specifically outside of the main panel.&#x20;
+* **/stp u**: Teleports you to the unload platform, specifically aside from the panel.&#x20;
+* **/stp e**: Teleports you to the exit.
 
 ### Incident Management
 
