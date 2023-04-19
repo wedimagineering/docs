@@ -9,7 +9,7 @@ description: >-
 
 * [Show](operating-procedures.md#show)
   * [Main Panel](operating-procedures.md#main-panel)
-    * [Main panel only operations](operating-procedures.md#main-panel-only-operations)
+    * [Main panel-only operations](operating-procedures.md#main-panel-only-operations)
     * [Multiple panel operations](operating-procedures.md#multiple-panel-operations)
   * [Side Panels](operating-procedures.md#side-panels)
 * [Preshow](operating-procedures.md#preshow)
@@ -25,15 +25,15 @@ Always use the cast chat channel in-game to communicate with cast for ride-relat
 
 ### Main panel
 
-When starting a new cycle, first wait for the preshow doors (check indicator \[9]) to open. The next step is playing the safety spiel. If the preshow is being operated manually you can wait until they close the doors or let you know everyone has entered the show area. If the preshow is automatic, wait 15-30 seconds or check when everyone has entered and play the safety spiel. A bit later than halfway through the safety spiel you'll see that the blue lights on the floor will start doing their first sequence. It'll be from that moment where, if the preshow is automatic, the entrance doors will close. Once the safety spiel has finished playing, you can proceed onto the next stage. This will differ a bit depending on if the side panels are being manned or not. The first thing to do (which is common in both conditions) is to wait until everyone has sat down (or atleast you dont see anyone standing up from the main panel position).
+When starting a new cycle, first wait for the preshow doors (check indicator \[9]) to open. The next step is playing the safety spiel. If the preshow is being operated manually you can wait until they close the doors or let you know everyone has entered the show area. If the preshow is automatic, wait 15-30 seconds or check when everyone has entered and play the safety spiel. A bit later than halfway through the safety spiel you'll see that the blue lights on the floor will start doing their first sequence. It'll be from that moment where, if the preshow is automatic, the entrance doors will close. Once the safety spiel has finished playing, you can proceed to the next stage. This will differ a bit depending on if the side panels are being manned or not. The first thing to do (which is common in both conditions) is to wait until everyone has sat down (or at least you don't see anyone standing up from the main panel position).
 
-#### Main panel only operations
+#### Main panel-only operations
 
-You you should now seat lock. Wait until all rows on screen 1 show green. The next step is to do a quick walkthrough the 3 rigs to check that everyone is sitting down. If there is someone who isnt then go turn seat lock off and ask that person to go sit down. If they refuse, check the incident management section to see what must be done. Once they sit down, turn on the seat lock again and do another walkthrough check. The next step is turning off the work lights, then wait about 5 seconds and you can dispatch by clicking on dispatch enable and then dispatch.
+You should now seat lock. Wait until all rows on screen 1 show green. The next step is to do a quick walk through the 3 rigs to check that everyone is sitting down. If there is someone who isn't then go turn the seat lock off and ask that person to go sit down. If they refuse, check the incident management section to see what must be done. Once they sit down, turn on the seat lock again and do another walkthrough check. The next step is turning off the work lights, then wait about 5 seconds and you can dispatch by clicking on dispatch enable and then dispatch.
 
-Once the show is over, play the exit spiel and then turn the work lights on, disable the seat lock and open the exit doors. Once everyone has left the room, do a quick walkthrough to check everyone has left the room. If there is someone left ask them to leave. If they refuse, check the incident management section to see what to do.
+Once the show is over, play the exit spiel and then turn the work lights on, disable the seat lock, and open the exit doors. Once everyone has left the room, do a quick walkthrough to check everyone has left the room. If there is someone left ask them to leave. If they refuse, check the incident management section to see what to do.
 
-Once you've completed your walkthrough you can close the exit doors and then enable the entrance doors. Its important to know that you need to wait until the end music starts playing until you can enable the entrance door.
+Once you've completed your walkthrough you can close the exit doors and then enable the entrance doors. It's important to know that you need to wait until the end music starts playing until you can enable the entrance door.
 
 #### Multiple panel operations
 

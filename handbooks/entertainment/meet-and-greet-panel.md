@@ -2,7 +2,7 @@
 
 There is a pathyway that you should use to access the cast area. **(See below)**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cast Entrance to Meet &#x26; Greet Area</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Cast Entrance to Meet &#x26; Greet Area</p></figcaption></figure>
 
 The panel itself is very simple and requires no extra training. However, we ask you to read this document carefully.\
 \
@@ -38,7 +38,7 @@ There is a waterfall feature, please ensure you turn the waterfall \*\***OFF\*\*
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Waterfall Feature Switch</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Waterfall Feature Switch</p></figcaption></figure>
 
  
 

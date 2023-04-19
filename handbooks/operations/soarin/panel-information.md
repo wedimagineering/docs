@@ -111,18 +111,18 @@
 
 #### Buttons & Indicators
 
-* **\[1] Main Show Remaining Screen:** Shows a countdown of the main show. Whenever its playing it will display how much time is left and when its not, it will display --:--.
-* **\[2] Preshow Show Remaining Screen:** Shows a countdown of the preshow show. Whenever its playing it will display how much time is left and when its not, it will display --:--.
+* **\[1] Main Show Remaining Screen:** Shows a countdown of the main show. Whenever it's playing it will display how much time is left and when it's not, it will display --:--.
+* **\[2] Preshow Show Remaining Screen:** Shows a countdown of the pre-show show. Whenever its playing it will display how much time is left and when it's not, it will display --:--.
 * **\[3] Section/Side Status Indicator:** Indicates if a section/side is enabled or not.
 * **\[4] Doors Enabled Indicator:** Indicates if the main show panel has enabled the doors.
 * **\[5] Preshow Running Indicator:** Indicates if the main show is running.
 * **\[6] Power Key:** This key is used to power on or off the panel. Click it to change its state from on to off or from off to on.
 * **\[7] Entrance Door Switch:** Open/Closes the entrance show doors. Can only be opened when the doors enabled indicator is on.
-* **\[8] Preshow Start:** Plays the preshow, will flash when available.
+* **\[8] Preshow Start:** Plays the preshow, which will flash when available.
 
 ### Preshow Panel Door
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Located on the wall around the corner at the bottom of the concourse.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Located on the wall around the corner at the bottom of the concourse.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -130,7 +130,7 @@
 
 ### Section Ropes
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Located on the right at the end of each section in the concourse.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -138,7 +138,7 @@
 
 ### Queue Ropes
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Located on the left down the long concourse queue ramp.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -148,7 +148,7 @@
 
 ### Entrance Panel
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Entrance panel located at the attraction queue entrance.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Entrance panel located at the attraction queue entrance.</p></figcaption></figure>
 
 #### Buttons & Indicators
 

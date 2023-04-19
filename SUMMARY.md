@@ -11,6 +11,8 @@
   * [🎢 Rock 'n' Roller Coaster](handbooks/operations/rock-n-roller-coaster/README.md)
     * [Scripts](handbooks/operations/rock-n-roller-coaster/scripts.md)
   * [🚂 Big Thunder Mountain Railroad](handbooks/operations/big-thunder-mountain-railroad/README.md)
+    * [Panel Information](handbooks/operations/big-thunder-mountain-railroad/panel-information.md)
+    * [Operating Procedures](handbooks/operations/big-thunder-mountain-railroad/operating-procedures.md)
     * [Scripts](handbooks/operations/big-thunder-mountain-railroad/scripts.md)
   * [🏨 Tower of Terror](handbooks/operations/tower-of-terror/README.md)
     * [Scripts](handbooks/operations/tower-of-terror/scripts.md)

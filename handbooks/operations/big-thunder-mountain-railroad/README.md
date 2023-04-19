@@ -6,11 +6,17 @@ description: >-
 
 # 🚂 Big Thunder Mountain Railroad
 
+{% content-ref url="panel-information.md" %}
+[panel-information.md](panel-information.md)
+{% endcontent-ref %}
+
+{% content-ref url="operating-procedures.md" %}
+[operating-procedures.md](operating-procedures.md)
+{% endcontent-ref %}
+
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)
 {% endcontent-ref %}
-
-{% file src="../../../.gitbook/assets/Big Thunder Mountain Railroad Manual" %}
 
 ### Incident Management
 
