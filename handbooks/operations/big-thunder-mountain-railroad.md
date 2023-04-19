@@ -1,6 +1,6 @@
-# Big Thunder Mountain Railroad
+# 🚂 Big Thunder Mountain Railroad
 
-{% file src="../../.gitbook/assets/btmr_script.pdf" %}
+{% file src="../../.gitbook/assets/Big Thunder Mountain Railroad Scripts" %}
 
-{% file src="../../.gitbook/assets/btmr_manual.pdf" %}
+{% file src="../../.gitbook/assets/Big Thunder Mountain Railroad Manual" %}
 

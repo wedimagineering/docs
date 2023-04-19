@@ -20,7 +20,6 @@
     * [Buttons & Indicators](panel-information.md#buttons-and-indicators7)
   * [Mid-Queue Panel](panel-information.md#mid-queue-panel)
     * [Buttons & Indicator](panel-information.md#buttons-and-indicators8)
-* Staff Commands
 
 ## Show
 

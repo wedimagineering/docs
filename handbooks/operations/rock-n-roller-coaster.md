@@ -1,6 +1,5 @@
-# Rock 'n' Roller Coaster
+# 🎢 Rock 'n' Roller Coaster
 
-{% file src="../../.gitbook/assets/RNRC Scripts.pdf" %}
+{% file src="../../.gitbook/assets/Rock 'n' Roller Coaster Scripts (1)" %}
 
-{% file src="../../.gitbook/assets/rnrc_manual.pdf" %}
-
+{% file src="../../.gitbook/assets/Rock 'n' Roller Coaster Manual" %}

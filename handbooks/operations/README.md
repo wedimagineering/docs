@@ -15,12 +15,12 @@ Strongly recommended but **optional**, attraction scripts are very useful in pro
 [big-thunder-mountain-railroad.md](big-thunder-mountain-railroad.md)
 {% endcontent-ref %}
 
-{% content-ref url="tower-of-terror.md" %}
-[tower-of-terror.md](tower-of-terror.md)
+{% content-ref url="tower-of-terror/" %}
+[tower-of-terror](tower-of-terror/)
 {% endcontent-ref %}
 
-{% content-ref url="mad-tea-party.md" %}
-[mad-tea-party.md](mad-tea-party.md)
+{% content-ref url="mad-tea-party/" %}
+[mad-tea-party](mad-tea-party/)
 {% endcontent-ref %}
 
 {% content-ref url="soarin/" %}
