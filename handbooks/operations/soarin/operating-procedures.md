@@ -8,14 +8,14 @@ description: >-
 # Operating Procedures
 
 * [Show](operating-procedures.md#show)
-  * Main Panel
-    * Main panel only operations
-    * Multiple panel operations
-  * Side Panels
-* Preshow
-* Queue
-  * Entrance Panel
-  * Mid-Queue Panel
+  * [Main Panel](operating-procedures.md#main-panel)
+    * [Main panel only operations](operating-procedures.md#main-panel-only-operations)
+    * [Multiple panel operations](operating-procedures.md#multiple-panel-operations)
+  * [Side Panels](operating-procedures.md#side-panels)
+* [Preshow](operating-procedures.md#preshow)
+* [Queue](operating-procedures.md#queue)
+  * [Entrance Panel](operating-procedures.md#entrance-panel)
+  * [Mid-Queue Panel](operating-procedures.md#mid-queue-panel)
 
 {% hint style="warning" %}
 Always use the cast chat channel in-game to communicate with cast for ride-related communications.

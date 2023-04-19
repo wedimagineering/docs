@@ -2,32 +2,31 @@
 
 * [Show](panel-information.md#show)
   * [Main Panel](panel-information.md#main-panel)
-    * Buttons & Indicators
-    * Screens
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators)
+    * [Screens](panel-information.md#screens)
   * [Side Panels](panel-information.md#side-panels)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators2)
 * [Preshow](panel-information.md#preshow)
   * [Preshow Panel](panel-information.md#preshow-panel)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators3)
   * [Preshow Panel Door](panel-information.md#preshow-panel-door)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators4)
   * [Section Ropes](panel-information.md#section-ropes)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators5)
   * [Queue Ropes](panel-information.md#queue-ropes)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators6)
 * [Queue](panel-information.md#queue)
   * [Entrance Panel](panel-information.md#entrance-panel)
-    * Buttons & Indicators
+    * [Buttons & Indicators](panel-information.md#buttons-and-indicators7)
   * [Mid-Queue Panel](panel-information.md#mid-queue-panel)
-    * Buttons & Indicators
-* Incident Management
+    * [Buttons & Indicator](panel-information.md#buttons-and-indicators8)
 * Staff Commands
 
 ## Show
 
 ### Main Panel
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="main panel"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="main panel"><figcaption><p>Located in the far right front of the show room.</p></figcaption></figure>
 
 #### **Buttons & Indicators**
 
@@ -36,8 +35,8 @@
   * Center Lock _(Center)_ - Indicates if all 3 rows from the center section are locked.
   * Right Lock _(Right)_ - Indicates if all 3 rows from the right section are locked.
 * **\[2] Lock Indicator Lights (B):**
-  * Lock Fault _(Top Left)_ - Non-Functional.
-  * Lock Ok _(Top Right)_ - Non-Functional.
+  * ~~Lock Fault _(Top Left)_ - Non-Functional.~~
+  * ~~Lock Ok _(Top Right)_ - Non-Functional.~~
   * All Unlocked _(Bottom Left)_ - Indicates if all rows are unlocked.
   * All Locked _(Bottom Right)_ - Indicates if all rows are locked.
 * **\[3] Light Indicators:**
@@ -45,8 +44,8 @@
   * Work Lights Off _(Top Right)_ - Indicates if show lights are on.
   * Show Lights On _(Middle Left)_ - Indicates if show lights are on.
   * Show Lights Off _(Middle Right)_ - Indicates if show lights are off.
-  * Exit Lights On _(Bottom Left)_ - Non-Functional.
-  * Exit Lights Off _(Bottom Right)_ - Non-Functional.
+  * ~~Exit Lights On _(Bottom Left)_ - Non-Functional.~~
+  * ~~Exit Lights Off _(Bottom Right)_ - Non-Functional.~~
 * **\[4] Preshow Status Indicator:** Indicates if preshow is playing.&#x20;
 * **\[5] Dispatch Status Indicator:** Indicates the status of the dispatch. If its flashing, it means that the ride is ready to dispatch. If it's on it means the ride is dispatched.
 * **\[6] Side Panel Indicators:**
@@ -80,7 +79,7 @@
 
 #### Screens
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Located above the main panel in the show room.</p></figcaption></figure>
 
 * **Screen 1 - Vehicle Restraints:** Shows the restraint lock status for each row. Red means it's unlocked. Yellow means it's waiting to be locked manually by a CM. Green means its locked.
 * **Screen 2 - Show Countdowns:** Shows a countdown of the main show and preshow. Whenever they're playing it will display how much time is left, when they're not playing it will display --:--.
@@ -88,11 +87,11 @@
 
 ### Side Panels
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Located behind the three columns in the show room.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Located to the left of the ride vehicle looking from the back.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Located to the left of the entrance door.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -109,7 +108,7 @@
 
 ### Preshow Panel
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Located behind the preshow panel door.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -124,7 +123,7 @@
 
 ### Preshow Panel Door
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Located on the wall around the corner at the bottom of the concourse.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -150,24 +149,24 @@
 
 ### Entrance Panel
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Entrance panel located at the attraction queue entrance.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
 * **\[1] Power Key:** This key is used to power on or off the panel. Click it to change its state from on to off or from off to on.
 * **\[2] Wait Time Board:** <mark style="color:red;">(Senior CM+)</mark> Enables/Disables the the entrance time boards.
-* **\[3] Fastpass+ Entrance:** Non Functional (for now).
+* ~~**\[3] Fastpass+ Entrance:** Non Functional (for now).~~
 * **\[4] Standby Entrance:** This switch is used to enable/disable the invisible wall for the standard queue.
 * **\[5] Touch Points:** <mark style="color:red;">(Senior CM+)</mark> Enables/Disables the the entrance touch points.
-* **\[6] Disable Panel Switch:** <mark style="color:blue;">(Supervisor+)</mark> This switch is used to toggle disabling the panel.
+* **\[6] Disable Panel Switch:** <mark style="color:blue;">(Manager+)</mark> This switch is used to toggle disabling the panel.
 
 ### Mid-Queue Panel
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Mid-queue panel located at the queue concourse split.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
 * **\[1] Power Key:** This key is used to power on or off the panel. Click it to change its state from on to off or from off to on.
 * **\[2] Standby Entrance:** This switch is used to enable/disable the invisible wall for the standard queue.
-* **\[3] Fastpass+ Entrance:** Non Functional (for now).
-* **\[4] Disable Panel Switch:** <mark style="color:blue;">(Supervisor+)</mark> This switch is used to toggle disabling the panel.
+* ~~**\[3] Fastpass+ Entrance:** Non Functional (for now).~~
+* **\[4] Disable Panel Switch:** <mark style="color:blue;">(Manager+)</mark> This switch is used to toggle disabling the panel.
