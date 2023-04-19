@@ -23,6 +23,6 @@ Strongly recommended but **optional**, attraction scripts are very useful in pro
 [mad-tea-party.md](mad-tea-party.md)
 {% endcontent-ref %}
 
-{% content-ref url="soarin.md" %}
-[soarin.md](soarin.md)
+{% content-ref url="soarin/operation-manual.md" %}
+[operation-manual.md](soarin/operation-manual.md)
 {% endcontent-ref %}
