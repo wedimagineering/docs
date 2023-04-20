@@ -18,6 +18,16 @@ description: >-
 [scripts.md](scripts.md)
 {% endcontent-ref %}
 
+### Staff Paths
+
+Unlike in previous rides there are no commands to teleport to specific areas such as load, unload. This is due to the small distance to get to the ride station.
+
+When entering the ride, you'll see a gate saying cast members only:
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Located on the right along the beginning of the queue.</p></figcaption></figure>
+
+You'll enter through there and once you enter the building just continue straight until you reach a wall, then turn right and you'll find the ramp that takes you to the load station.
+
 ### Incident Management
 
 #### Guest refusing to take a seat

@@ -86,7 +86,7 @@
 
 ### Side Panels
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Located behind the three columns in the show room.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Located behind the three columns in the show room.</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Located to the left of the ride vehicle looking from the back.</p></figcaption></figure>
 
