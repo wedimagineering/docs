@@ -9,6 +9,7 @@
 
 * [Operations](handbooks/operations/README.md)
   * [🎢 Rock 'n' Roller Coaster](handbooks/operations/rock-n-roller-coaster/README.md)
+    * [Operating Procedures](handbooks/operations/rock-n-roller-coaster/operating-procedures.md)
     * [Scripts](handbooks/operations/rock-n-roller-coaster/scripts.md)
   * [🚂 Big Thunder Mountain Railroad](handbooks/operations/big-thunder-mountain-railroad/README.md)
     * [Panel Information](handbooks/operations/big-thunder-mountain-railroad/panel-information.md)

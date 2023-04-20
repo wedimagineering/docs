@@ -7,7 +7,7 @@
 
 ### Main Panel
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Located at the bottom of the queue ramp in the Operator booth.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Located at the bottom of the queue ramp in the Operator booth.</p></figcaption></figure>
 
 #### **Buttons & Indicators**
 

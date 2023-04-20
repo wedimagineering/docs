@@ -10,14 +10,12 @@ description: >-
 * [Main panel-only operations](operating-procedures.md#main-panel-only-operations)
 * [Multiple panel operations](operating-procedures.md#multiple-panel-operations)
 
+<figure><img src="../../../.gitbook/assets/btmr.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="danger" %}
 In order to get to the panel, you'll have to cross to the side platform. This image shows in a red square the area where you can cross. This area is located just beside the stairs to enter the operator booth. Please don't cross the platform if the train is moving in or out of the station.
 
-![](../../../.gitbook/assets/btmr.png)
-{% endhint %}
-
-{% hint style="warning" %}
-Always use the cast chat channel in-game to communicate with cast for ride-related communications.
+![](../../../.gitbook/assets/Screenshot\_2023-04-20\_12.46.42\_PM-removebg-preview.png)
 {% endhint %}
 
 When starting a new cycle, first wait for the preshow doors (check indicator \[9]) to open. The next step is playing the safety spiel. If the preshow is being operated manually you can wait until they close the doors or let you know everyone has entered the show area. If the preshow is automatic, wait 15-30 seconds or check when everyone has entered and play the safety spiel. A bit later than halfway through the safety spiel you'll see that the blue lights on the floor will start doing their first sequence. It'll be from that moment where, if the preshow is automatic, the entrance doors will close. Once the safety spiel has finished playing, you can proceed to the next stage. This will differ a bit depending on if the side panels are being manned or not. The first thing to do (which is common in both conditions) is to wait until everyone has sat down (or at least you don't see anyone standing up from the main panel position).
@@ -31,6 +29,10 @@ When the train reaches the station, release the restraints so people can get out
 If a person refuses to sit for a reasonable amount of time and/or is delaying the operations, you can lock the restraints/close the gates, and dispatch the train without them. Please contact a supervisor if the situation escalates.
 
 #### Multiple panel operations
+
+{% hint style="info" %}
+Side panels should only be operated if the main panel is being operated.
+{% endhint %}
 
 When there are 2 active panels the main panel loses some functions. It won't be able to operate the gates nor will be able to release the restraints.
 

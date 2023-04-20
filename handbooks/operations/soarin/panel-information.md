@@ -107,7 +107,7 @@
 
 ### Preshow Panel
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Located behind the preshow panel door.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Located behind the preshow panel door.</p></figcaption></figure>
 
 #### Buttons & Indicators
 

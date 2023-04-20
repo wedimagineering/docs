@@ -7,6 +7,10 @@ Welcome onboard our operations department, we've created and provided documents 
 Strongly recommended but **optional**, attraction scripts are very useful in providing a sense of realism and a better experience while operating attractions.
 {% endhint %}
 
+{% hint style="warning" %}
+Always use the cast chat channel in-game to communicate with cast for ride-related communications.
+{% endhint %}
+
 {% content-ref url="rock-n-roller-coaster/" %}
 [rock-n-roller-coaster](rock-n-roller-coaster/)
 {% endcontent-ref %}
