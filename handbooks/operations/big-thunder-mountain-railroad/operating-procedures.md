@@ -18,8 +18,6 @@ In order to get to the panel, you'll have to cross to the side platform. This im
 ![](<../../../.gitbook/assets/3 (1).png>)
 {% endhint %}
 
-When starting a new cycle, first wait for the preshow doors (check indicator \[9]) to open. The next step is playing the safety spiel. If the preshow is being operated manually you can wait until they close the doors or let you know everyone has entered the show area. If the preshow is automatic, wait 15-30 seconds or check when everyone has entered and play the safety spiel. A bit later than halfway through the safety spiel you'll see that the blue lights on the floor will start doing their first sequence. It'll be from that moment where, if the preshow is automatic, the entrance doors will close. Once the safety spiel has finished playing, you can proceed to the next stage. This will differ a bit depending on if the side panels are being manned or not. The first thing to do (which is common in both conditions) is to wait until everyone has sat down (or at least you don't see anyone standing up from the main panel position).
-
 #### Main panel-only operations
 
 When there's only 1 active cast member, meaning there is only 1 panel on, you must use the main panel. If you were previously operating with 2 panels and one of the cast members has to leave, please turn off the side panel and go to the main panel to continue operating from there _(you won't be able to dispatch by only using the side panel)_.
