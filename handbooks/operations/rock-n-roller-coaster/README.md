@@ -6,11 +6,15 @@ description: >-
 
 # 🎢 Rock 'n' Roller Coaster
 
+{% file src="../../../.gitbook/assets/Rock 'n' Roller Coaster Manual" %}
+
+{% content-ref url="operating-procedures.md" %}
+[operating-procedures.md](operating-procedures.md)
+{% endcontent-ref %}
+
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)
 {% endcontent-ref %}
-
-{% file src="../../../.gitbook/assets/Rock 'n' Roller Coaster Manual" %}
 
 ### Staff Commands
 
@@ -22,7 +26,13 @@ You can use the following commands to teleport you around the game:
 * **/stp u**: Teleports you to the unload platform, specifically aside from the panel.&#x20;
 * **/stp e**: Teleports you to the exit.
 
-### Incident Management
+### Staff Paths
+
+To walk between the load/unload stations, you can use a corridor that communicates both stations.
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Load Station Corridor Entrance</td><td></td><td><img src="../../../.gitbook/assets/8.png" alt=""></td></tr><tr><td></td><td></td><td>/</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+Incident Management
 
 #### Guest refusing to take a seat
 

@@ -25,7 +25,7 @@
 
 ### Main Panel
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="main panel"><figcaption><p>Located in the far right front of the show room.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0 (2).png" alt="main panel"><figcaption><p>Located in the far right front of the show room.</p></figcaption></figure>
 
 #### **Buttons & Indicators**
 
@@ -78,7 +78,7 @@
 
 #### Screens
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Located above the main panel in the show room.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption><p>Located above the main panel in the show room.</p></figcaption></figure>
 
 * **Screen 1 - Vehicle Restraints:** Shows the restraint lock status for each row. Red means it's unlocked. Yellow means it's waiting to be locked manually by a CM. Green means its locked.
 * **Screen 2 - Show Countdowns:** Shows a countdown of the main show and preshow. Whenever they're playing it will display how much time is left, when they're not playing it will display --:--.
@@ -86,11 +86,11 @@
 
 ### Side Panels
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Located behind the three columns in the show room.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Located behind the three columns in the show room.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Located to the left of the ride vehicle looking from the back.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption><p>Located to the left of the ride vehicle looking from the back.</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Located to the left of the entrance door.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4.png" alt=""><figcaption><p>Located to the left of the entrance door.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -107,7 +107,7 @@
 
 ### Preshow Panel
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Located behind the preshow panel door.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption><p>Located behind the preshow panel door.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -122,7 +122,7 @@
 
 ### Preshow Panel Door
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Located on the wall around the corner at the bottom of the concourse.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6.png" alt=""><figcaption><p>Located on the wall around the corner at the bottom of the concourse.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -130,7 +130,7 @@
 
 ### Section Ropes
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Located on the right at the end of each section in the concourse.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7 (1).png" alt=""><figcaption><p>Located on the right at the end of each section in the concourse.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -138,7 +138,7 @@
 
 ### Queue Ropes
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Located on the left down the long concourse queue ramp.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/8 (1).png" alt=""><figcaption><p>Located on the left down the long concourse queue ramp.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -148,7 +148,7 @@
 
 ### Entrance Panel
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Entrance panel located at the attraction queue entrance.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/9.png" alt=""><figcaption><p>Entrance panel located at the attraction queue entrance.</p></figcaption></figure>
 
 #### Buttons & Indicators
 
@@ -161,7 +161,7 @@
 
 ### Mid-Queue Panel
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Mid-queue panel located at the queue concourse split.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10.png" alt=""><figcaption><p>Mid-queue panel located at the queue concourse split.</p></figcaption></figure>
 
 #### Buttons & Indicators
 

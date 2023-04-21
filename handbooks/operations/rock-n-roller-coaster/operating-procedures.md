@@ -23,7 +23,7 @@ When there's only 1 active cast member, meaning there is only 1 panel on, you mu
 
 When the train reaches the station play the load spiel, then open the gates. Then wait until the spiel has finished playing (this includes the Spanish part of the spiel) and for the launch block zone to be free.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Located above the loading platform, light will flash green when the launch block is free.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption><p>Located above the loading platform, light will flash green when the launch block is free.</p></figcaption></figure>
 
 Then, if no one is boarding the train, close the gates. After closing the gates, wait a couple of seconds and once everyone is sitting in their seats, lock the restraints. After locking the restraints, enable the dispatch and dispatch the train _(after you press the enable dispatch, you'll have 5 seconds to press dispatch before you need to enable it again)_.
 
@@ -45,7 +45,7 @@ Once both conditions are true, if no one is boarding the train, the side panel o
 
 When the train reaches the unload station, you will first release the restraints. Then you will wait until the load station is free.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Located on the left wall at the end of the unload station. The traffic light will turn green when the load station is free.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/7.png" alt=""><figcaption><p>Located on the left wall at the end of the unload station. The traffic light will turn green when the load station is free.</p></figcaption></figure>
 
 Once the load station is free, you'll dispatch the train.
 
