@@ -1,7 +1,11 @@
+---
+description: >-
+  Welcome onboard our operations department, we've created and provided
+  documents and resources outlining the position for your use and reference if
+  necessary.
+---
+
 # Operations
-
-Welcome onboard our operations department, we've created and provided documents and resources outlining the position for your use and reference if needed.\
-
 
 {% hint style="info" %}
 Strongly recommended but **optional**, attraction scripts are very useful in providing a sense of realism and a better experience while operating attractions.
