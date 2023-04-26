@@ -24,17 +24,15 @@ Cast Members are able to operate all tier-one attractions and only one tier-two 
 
 Cast Members who have demonstrated noticeable leadership, responsibility, and activity within the operations department.&#x20;
 
-→ Ability to post in this-or-that & special cast channel&#x20;
+→ Ability to post in This-Or-That
 
 → Slow Train Spiel @ Big Thunder Mountain Railroad&#x20;
 
-→ Manual Doors (preshow) @ Rock N' Roller Coaster&#x20;
+→ Manual Doors (Preshow) @ Rock N' Roller Coaster&#x20;
 
 → Manual Launch @ Rock N' Roller Coaster&#x20;
 
 → Manual Control @ Mad Tea Party
-
-#### Must be trained on all attractions and have been a _Cast Member_ for over two weeks for eligibility.&#x20;
 
 </details>
 
