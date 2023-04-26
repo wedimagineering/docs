@@ -4,7 +4,7 @@ description: >-
   side panel.
 ---
 
-# 🚂 Big Thunder Mountain Railroad
+# Big Thunder Mountain Railroad
 
 {% content-ref url="panel-information.md" %}
 [panel-information.md](panel-information.md)

@@ -1,9 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Rank Structure](rank-structure.md)
-* [📖 Rules & Guidelines](rules-and-guidelines/README.md)
-  * [Incident Management](rules-and-guidelines/incident-management.md)
+
+## 📄 Guidlines
+
+* [Rules](guidlines/rules.md)
+* [Rank Structure](guidlines/rank-structure.md)
+* [Incident Management](guidlines/incident-management.md)
 
 ## 📑 Handbooks
 

@@ -6,13 +6,7 @@ In order to maintain structure and control, the operations department positions 
 Any hinting or requesting of promotion will significantly decrease the overall possibility.
 {% endhint %}
 
-<details>
-
-<summary>University Student</summary>
-
-Onboarding cast whose applications have been recently accepted but however do not yet have any certifications to operate any attractions.
-
-</details>
+## Cast Members
 
 <details>
 
@@ -46,13 +40,15 @@ Cast Members who have demonstrated noticeable leadership, responsibility, and ac
 
 </details>
 
+## Leadership
+
 <details>
 
 <summary>Manager</summary>
 
 Handpicked members of the leadership team who have demonstrated excessive leadership, responsibility, and activity within the operations department.&#x20;
 
-Managers are responsible for the operations department, host training & events, and have elevated permissions and access.
+Managers are responsible for the operations applications and can conduct final examinations for the specific ride that they are assigned to and all tier-one rides as well.
 
 </details>
 

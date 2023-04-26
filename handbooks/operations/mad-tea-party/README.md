@@ -2,7 +2,7 @@
 description: Mad Tea Party has two different panels. One main panel and one side panel.
 ---
 
-# ☕ Mad Tea Party
+# Mad Tea Party
 
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)

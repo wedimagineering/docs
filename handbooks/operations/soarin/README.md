@@ -5,7 +5,7 @@ description: >-
   panels.
 ---
 
-# ☁ Soarin'
+# Soarin'
 
 {% content-ref url="panel-information.md" %}
 [panel-information.md](panel-information.md)

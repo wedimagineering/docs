@@ -1,4 +1,4 @@
-# 📖 Rules & Guidelines
+# Rules
 
 {% hint style="danger" %}
 All cast members should follow the following rules at all times when in uniform/doing cast member-related tasks.

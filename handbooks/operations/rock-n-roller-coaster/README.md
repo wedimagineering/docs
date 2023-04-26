@@ -4,7 +4,7 @@ description: >-
   preshow panel, one load panel, one side panel, and one unload panel.
 ---
 
-# 🎢 Rock 'n' Roller Coaster
+# Rock 'n' Roller Coaster
 
 {% file src="../../../.gitbook/assets/Rock 'n' Roller Coaster Manual" %}
 

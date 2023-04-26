@@ -4,7 +4,7 @@ description: >-
   panels, one load panel, and one unload panel.
 ---
 
-# 🏨 Tower of Terror
+# Tower of Terror
 
 {% content-ref url="scripts.md" %}
 [scripts.md](scripts.md)
