@@ -25,7 +25,3 @@
   * [Soarin'](handbooks/operations/soarin/README.md)
     * [Panel Information](handbooks/operations/soarin/panel-information.md)
     * [Operating Procedures](handbooks/operations/soarin/operating-procedures.md)
-* [Entertainment](handbooks/entertainment/README.md)
-  * [Entertainment Rules](handbooks/entertainment/entertainment-rules.md)
-  * [Character Control](handbooks/entertainment/character-control.md)
-  * [Meet & Greet Panel](handbooks/entertainment/meet-and-greet-panel.md)
