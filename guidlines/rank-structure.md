@@ -34,6 +34,8 @@ Cast Members who have demonstrated noticeable leadership, responsibility, and ac
 
 → Manual Control @ Mad Tea Party
 
+→ Ability to let university students shadow you.
+
 </details>
 
 ## Leadership
