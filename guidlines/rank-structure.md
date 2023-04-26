@@ -14,7 +14,7 @@ Any hinting or requesting of promotion will significantly decrease the overall p
 
 Cast Members who are full members of the operations department and are trained and have proper certification/training to operate at least one attraction.
 
-#### Must pass training for _one_ attraction to be promoted.
+Cast Members are able to operate all tier-one attractions and only one tier-two attraction.
 
 </details>
 
@@ -23,8 +23,6 @@ Cast Members who are full members of the operations department and are trained a
 <summary>Senior Cast Member</summary>
 
 Cast Members who have demonstrated noticeable leadership, responsibility, and activity within the operations department.&#x20;
-
-→ Increased chances of becoming a Manager
 
 → Ability to post in this-or-that & special cast channel&#x20;
 
