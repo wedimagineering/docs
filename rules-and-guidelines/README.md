@@ -1,6 +1,6 @@
 # 📖 Rules & Guidelines
 
-{% hint style="info" %}
+{% hint style="danger" %}
 All cast members should follow the following rules at all times when in uniform/doing cast member-related tasks.
 {% endhint %}
 
@@ -13,6 +13,10 @@ All cast members should follow the following rules at all times when in uniform/
 • Don't argue with guests. If a guest is trolling in chat, blocking the operation of a ride, or exploiting; contact an active manager as soon as possible. If no managers are available, contact a supervisor.
 
 • Don't argue with other Cast Members over who is operating on a panel, how they are using their script, or how long they have been operating. Panels are first come, first serve.
+
+{% hint style="danger" %}
+Always use the cast chat channel in-game to communicate with other cast members for ride-related communications.
+{% endhint %}
 
 • You must be operating the attraction while clocked in, any attempts to exploit the point system will result in immediate suspension and data wipe.
 
