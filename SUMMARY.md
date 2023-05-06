@@ -11,7 +11,6 @@
 ## 📑 Handbooks
 
 * [Operations](handbooks/operations/README.md)
-  * [Earning My Ears System](handbooks/operations/earning-my-ears-system.md)
   * [Rock 'n' Roller Coaster](handbooks/operations/rock-n-roller-coaster/README.md)
     * [Operating Procedures](handbooks/operations/rock-n-roller-coaster/operating-procedures.md)
     * [Scripts](handbooks/operations/rock-n-roller-coaster/scripts.md)
