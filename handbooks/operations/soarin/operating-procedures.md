@@ -23,7 +23,7 @@ When starting a new cycle, first wait for the preshow doors (check [indicator \[
 
 #### Main panel-only operations
 
-You should now seat lock. Wait until all rows on screen 1 show green. The next step is to do a quick walk through the 3 rigs to check that everyone is sitting down. If there is someone who isn't then go turn the seat lock off and ask that person to go sit down. If they refuse, check the incident management section to see what must be done. Once they sit down, turn on the seat lock again and do another walkthrough check. The next step is turning off the work lights, then wait about 5 seconds and you can dispatch by clicking on dispatch enable and then dispatch.
+You should now seat lock. Wait until all rows on screen 1 show green. The next step is to do a quick walk through the 3 rigs to check that everyone is sitting down. If there is someone who isn't, turn the seat lock off and ask that person to go sit down. If they refuse, check the incident management section to see what must be done. Once they sit down, turn on the seat lock again and do another walkthrough check. The next step is turning off the work lights, then wait about 5 seconds and you can dispatch by clicking on dispatch enable and then dispatch.
 
 Once the show is over, play the exit spiel and then turn the work lights on, disable the seat lock, and open the exit doors. Once everyone has left the room, do a quick walkthrough to check everyone has left the room. If there is someone left ask them to leave. If they refuse, check the incident management section to see what to do.
 
@@ -35,9 +35,9 @@ Once you've completed your walkthrough you can close the exit doors and then ena
 Side panels should only be operated if the main panel is being operated.
 {% endhint %}
 
-When operating with multiple people in the room, communication is key. You can either use the in game chat _(always in the cast channel)_ or use voice comms in discord _(if you can use the latter, we recommend using that one)_. The first step is to turn on seat lock. When doing it you need to announce it to the other cm's by saying something like: SEAT LOCK. Then wait until all the rows on screen 1 turn green. If you think some cm missed some row, let them know by saying something like _"#### side, row # is still pending"_. It's important to note that the order of the rows go from closest to the screen to furthest and in screen number 1, rows are ordered from lower to higher, meaning row number 1 will be the lowest on the screen.
+When operating with multiple people in the room, communication is key. You can either use the in-game chat _(always in the cast channel)_ or use voice comms in Discord _(if you can use the latter, we recommend using that one)_. The first step is to turn on seat lock. When doing it you need to announce it to the other cm's by saying something like: SEAT LOCK. Then wait until all the rows on screen 1 turn green. If you think some cm missed some row, let them know by saying something like _"#### side, row # is still pending"_. It's important to note that the order of the rows go from closest to the screen to furthest and in screen number 1, rows are ordered from lower to higher, meaning row number 1 will be the lowest on the screen.
 
-Once all rows are locked and the cm's have confirmed everyone is sitting down and clear, you can proceed to turn off the work lights. Then wait about 5 seconds and dispatch enable. At this point you should call out something like "ENABLE" or "DISPATCH ENABLE" to let the other cm's know they need to dispatch enable their section. You can use [indicator \[6\]](https://docs.wedimagineering.com/cast/handbooks/operations/soarin/panel-information) to see who has and hasn't dispatch enabled. If there's a side that doesn't dispatch enabled, remind them to dispatch enable. Once all sides have dispatch enabled you can call dispatch and call out "DISPATCH".
+Once all rows are locked and the cm's have confirmed everyone is sitting down and clear, you can proceed to turn off the work lights. Then wait about 5 seconds and dispatch enable. At this point, you should call out something like "ENABLE" or "DISPATCH ENABLE" to let the other cm's know they need to dispatch enable their section. You can use [indicator \[6\]](https://docs.wedimagineering.com/cast/handbooks/operations/soarin/panel-information) to see who has and hasn't dispatch enabled. If a side doesn't dispatch enabled, remind them to dispatch enable. Once all sides have dispatch enabled you can call dispatch and call out "DISPATCH".
 
 Once the show is over, play the exit spiel, turn on the work lights, disable the seat lock and then open the exit doors. Once the other cm's have confirmed the room is empty, you can close the exit doors and once all the side Cast Members confirm they're in position in their section in the preshow area, you can enable the entrance doors.
 
@@ -57,7 +57,7 @@ Once the show is over, ask the guests to exit to their right. Once your section 
 
 ## Preshow
 
-Load the people into their sections. Once people are loaded, use the queue ropes to close access until the next cycle. Play the preshow once there's less than **40 seconds** left for the show to finish _(if it were the first cycle, you can play it once the line fills up)_. Once the preshow finishes, if the doors arent enabled, wait for them to be enabled. If the main panel is operated by someone, you can request/remind them to enable the doors.
+Load the people into their sections. Once people are loaded, use the queue ropes to close access until the next cycle. Play the preshow once there are less than **30 Seconds** left for the show to finish _(if it were the first cycle, you can play it once the line fills up)_. Once the preshow finishes, if the doors aren't enabled, wait for them to be enabled. If the main panel is operated by someone, you can request/remind them to enable the doors.
 
 Once everyone has entered the main show area you can close the doors. If the main panel is being operated, notify the main panel that the load is complete.
 
@@ -67,8 +67,8 @@ Once this is done, you can re-open the queue rope once again and wait for the ne
 
 #### Entrance panel
 
-This position is mostly a greeter position. You should only close the entrance in certain situations, such as the ride being down, the queue being too full or if instructed by a <mark style="color:blue;">Manager+</mark>.
+This position is mostly a greeter position. You should only close the entrance in certain situations, such as the ride being down, the queue being too full, or if instructed by a <mark style="color:blue;">Manager+</mark>.
 
 #### Mid-queue panel
 
-If the preshow is being operated, then you should try to manage the queue to avoid the queue in the area between this panel and the preshow panel to grow too much. If it isn't then, you can use it divide groups between preshow cycles.
+If the preshow is being operated, then you should try to manage the queue to avoid the line in the area between this panel and the preshow panel growing too much. If it isn't then, you can use it to divide groups between preshow cycles.
