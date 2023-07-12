@@ -1,6 +1,6 @@
 # Rank Structure
 
-In order to maintain structure and control, the operations department positions are sorted under the following descending structure. Some contain pre-requisites and suggestive actions to gain the list
+In order to maintain structure and control, the operations department positions are sorted under the following descending structure. Some contain prerequisites and suggestive actions to gain the list.
 
 {% hint style="warning" %}
 Any hinting or requesting of promotion will significantly decrease the overall possibility.
@@ -12,9 +12,7 @@ Any hinting or requesting of promotion will significantly decrease the overall p
 
 <summary>Cast Member</summary>
 
-Cast Members who are full members of the operations department and are trained and have proper certification/training to operate at least one attraction.
-
-Cast Members are able to operate all tier-one attractions and only one tier-two attraction.
+Cast Members who are full members of the operations department and are trained and have proper certification/training to operate at least one attraction or entertainment spot.
 
 </details>
 
@@ -32,9 +30,9 @@ Cast Members who have demonstrated noticeable leadership, responsibility, and ac
 
 → Manual Launch @ Rock N' Roller Coaster&#x20;
 
-→ Manual Control @ Mad Tea Party
-
-→ Ability to let university students shadow you.
+→ Manual Control @ Mad Tea Party\
+\
+→ Ability to close sections @ Soarin
 
 </details>
 
@@ -46,7 +44,7 @@ Cast Members who have demonstrated noticeable leadership, responsibility, and ac
 
 Handpicked members of the leadership team who have demonstrated excessive leadership, responsibility, and activity within the operations department.&#x20;
 
-Managers are responsible for the operations applications and can conduct final examinations for the specific ride that they are assigned to and all tier-one rides as well.
+Managers are responsible for the operations applications and training Cast Members on each of our rides.
 
 </details>
 

@@ -51,9 +51,9 @@ Once the show is over, play the exit spiel, turn on the work lights, disable the
 Side panels should only be operated if the main panel is being operated.
 {% endhint %}
 
-When operating a side panel you'll be responsible for your section/side, both in the show and the preshow.
+When operating a side panel you'll be responsible for your section/side, both in the show and the preshow. (_Preshow panels are optional_)
 
-When starting the boarding procedure board each row in order _(1 then 2 then 3)_. You can use the row wall switches to open & close the row. Remember to close the rows before completing the boarding. Once everyone is in, if the preshow panel is being operated, let the operator know the boarding in your area has been completed. You can then enter the show area.
+When starting the boarding procedure board each row in order _(3 then 2 then 1)_. You can use the row wall switches to open & close the row. Remember to close the rows before completing the boarding. Once everyone is in, if the preshow panel is being operated, let the operator know the boarding in your area has been completed. You can then enter the show area.
 
 Then wait until the main panel enables the seat lock. Once that happens start going through each row, starting from front to back. Check everyone in the row is sat down and then lock the row by clicking [indicator/button \[4\]](https://docs.wedimagineering.com/cast/handbooks/operations/soarin/panel-information). Before locking the last row make sure there is no one in your section that is not sitting down. If there is someone who isn't sitting down ask them to sit down on the last row. If they refuse, check the incident management section to see how to proceed, then lock the last row. Then once the main panel dispatch enables, enable your zone.
 
@@ -61,7 +61,7 @@ Once the show is over, ask the guests to exit to their right. Once your section 
 
 ## Preshow
 
-Load the people into their sections. Once people are loaded, use the queue ropes to close access until the next cycle. Play the preshow once there are less than **30 Seconds** left for the show to finish _(if it were the first cycle, you can play it once the line fills up)_. Once the preshow finishes, if the doors aren't enabled, wait for them to be enabled. If the main panel is operated by someone, you can request/remind them to enable the doors.
+Load the people into their sections. Once people are loaded or if the show has less than **50 seconds**, use the queue ropes to close access until the next cycle. Play the preshow once there are less than **30 Seconds** left for the show to finish _(if it were the first cycle, you can play it once the line fills up)_. Once the preshow finishes, if the doors aren't enabled, wait for them to be enabled. If the main panel is operated by someone, you can request/remind them to enable the doors.
 
 Once everyone has entered the main show area you can close the doors. If the main panel is being operated, notify the main panel that the load is complete.
 
