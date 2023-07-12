@@ -7,6 +7,8 @@ description: >-
 
 # Soarin'
 
+***
+
 {% content-ref url="panel-information.md" %}
 [panel-information.md](panel-information.md)
 {% endcontent-ref %}
@@ -14,6 +16,8 @@ description: >-
 {% content-ref url="operating-procedures.md" %}
 [operating-procedures.md](operating-procedures.md)
 {% endcontent-ref %}
+
+***
 
 ### Staff Commands
 

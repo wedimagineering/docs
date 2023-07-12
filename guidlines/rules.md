@@ -6,9 +6,11 @@ All cast members should follow the following rules at all times when in uniform/
 
 • You're not permitted to discuss or leak staff-related things (including but not limited to: photos, documents, and channels) in community channels or other servers.
 
-• Don't leave a panel on, if left unsupervised, guests will be unable to ride the attraction.
+• Don't leave a panel on, if left unsupervised, guests will be unable to ride the attraction.\
+\
+• Don't hop from panel to panel. If you are operating a panel it is expected that you will be there for a length of time.
 
-• Don't wear any unrealistic clothing when operating an attraction. This includes accessories that fully cover limbs and hats that are large enough to be a distraction from the experience.
+• Don't wear any unrealistic clothing when operating an attraction. This includes accessories that fully cover limbs and hats that are large enough to be a distraction from the experience. Masks/Hats that fully cover your face are not accepted either.
 
 • Don't argue with guests. If a guest is trolling in chat, blocking the operation of a ride, or exploiting; contact an active manager as soon as possible. If no managers are available, contact a supervisor.
 

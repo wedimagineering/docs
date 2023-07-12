@@ -1,11 +1,13 @@
 ---
 description: >-
   ITS FUNDAMENTAL THAT YOU FOLLOW THE CORRECT ORDER OF ACTIONS WHEN OPERATING
-  THIS RIDE, IF YOU DONT, THEN YOU MAY HAVE TO REPEAT EVERYTHING UNTIL YOU
-  PERFORM IT IN THE CORRECT ORDER
+  THIS RIDE! IF YOU DON'T, THEN YOU MAY HAVE TO REPEAT EVERYTHING UNTIL YOU
+  PERFORM IT IN THE CORRECT ORDER.
 ---
 
 # Operating Procedures
+
+***
 
 * [Show](operating-procedures.md#show)
   * [Main Panel](operating-procedures.md#main-panel)
@@ -16,6 +18,8 @@ description: >-
 * [Queue](operating-procedures.md#queue)
   * [Entrance Panel](operating-procedures.md#entrance-panel)
   * [Mid-Queue Panel](operating-procedures.md#mid-queue-panel)
+
+
 
 ## Show panels
 
