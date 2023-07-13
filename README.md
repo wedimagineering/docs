@@ -1,12 +1,38 @@
-# Introduction
+---
+description: Onboarding and welcoming to Cast Members
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
 
-Welcome onboard our amazing team of cast members, while having fun and providing a magical experience for all, we ask that you please comply with our guidelines and policies set forth and demonstrated in our handbook and during the university program.
+# 👋 Introduction
 
-## Rules & Guidelines
+Congratulations on moving through the [University Program](http://127.0.0.1:5000/o/prcTQtUAJ5c6LNUu0XEa/s/3Wf47Q6r1KBtOnr7JCv8/) and becoming certified, and remember, this is only the beginning!
 
-Most importantly, not only do the discord servers' rules still apply to cast members, cast members have additionally outlined responsibilities and guidelines to follow to ensure a magical visit for all guests. Please make sure you read through and understand all of these guidelines which are linked below.
+Lets review some important information including cast-specific [Rules & Guidelines](rules-and-guidelines.md), [Operation handbooks](handbooks/operations/), and more that'll make your job much easier!
 
-{% content-ref url="guidlines/rules.md" %}
-[rules.md](guidlines/rules.md)
+***
+
+### Rules & Guidelines
+
+We expect all Cast Members closely abide by any but not limited to set-forth rules and use of common sense while employed in the community. It is necessary that all Cast Members remain professional and create a welcoming and positive environment to improve and create magical memories for our Guests.
+
+{% content-ref url="rules-and-guidelines.md" %}
+[rules-and-guidelines.md](rules-and-guidelines.md)
 {% endcontent-ref %}
 
+### Operations Handbooks
+
+Available and at the convenience of all Cast Members, operations handbooks are heavily useful resources providing extensive ride operations guides and scripts to enhance magical memories. If at any moment should you question an operation procedure, feel free to take a look at the attraction handbook before asking for help in our community.
+
+{% content-ref url="handbooks/operations/" %}
+[operations](handbooks/operations/)
+{% endcontent-ref %}

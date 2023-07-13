@@ -1,4 +1,10 @@
-# Panel Information
+---
+description: Descriptive panel information for Cast Member reference
+---
+
+# 📕 Panel Information
+
+***
 
 * [Show](panel-information.md#show)
   * [Main Panel](panel-information.md#main-panel)
@@ -69,7 +75,7 @@
 * **\[12] Work Lights:** This switch is used to enable/disable the show/work lights.
 * **\[13] Safety Spiel:** Plays the safety spiel.
 * **\[14] Exit Spiel:** Plays the exit spiel.
-* **\[15] Stop Spiel:** <mark style="color:red;">(Senior CM+)</mark> Stops the current spiel.&#x20;
+* **\[15] Stop Spiel:** <mark style="color:yellow;">(</mark><mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+)</mark> Stops the current spiel.&#x20;
 * **\[16] Entrance Doors Enable:** Enables the entrance doors so they can be opened from the preshow panel.
 * **\[17] Reset Enable:** Resets the door enable permission.
 * **\[18] Exit Door Switch:** Open/Closes the exit doors.
@@ -134,7 +140,7 @@
 
 #### Buttons & Indicators
 
-* **\[10] Toggle Section:** <mark style="color:red;">(Senior CM+)</mark> Enables/Disables the section. Do not use if guests are in the section. Preshow panel has to be on to be able to use.
+* **\[10] Toggle Section:** <mark style="color:yellow;">(</mark><mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+)</mark> Enables/Disables the section. Do not use if guests are in the section. Preshow panel has to be on to be able to use.
 
 ### Queue Ropes
 
@@ -153,11 +159,11 @@
 #### Buttons & Indicators
 
 * **\[1] Power Key:** This key is used to power on or off the panel. Click it to change its state from on to off or from off to on.
-* **\[2] Wait Time Board:** <mark style="color:red;">(Senior CM+)</mark> Enables/Disables the the entrance time boards.
+* **\[2] Wait Time Board:** <mark style="color:yellow;">(</mark><mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+)</mark> Enables/Disables the the entrance time boards.
 * ~~**\[3] Fastpass+ Entrance:** Non Functional (for now).~~
 * **\[4] Standby Entrance:** This switch is used to enable/disable the invisible wall for the standard queue.
-* **\[5] Touch Points:** <mark style="color:red;">(Senior CM+)</mark> Enables/Disables the the entrance touch points.
-* **\[6] Disable Panel Switch:** <mark style="color:blue;">(Manager+)</mark> This switch is used to toggle disabling the panel.
+* **\[5] Touch Points:** <mark style="color:yellow;">(</mark><mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+)</mark> Enables/Disables the the entrance touch points.
+* **\[6] Disable Panel Switch:** <mark style="color:blue;">(</mark><mark style="color:blue;">**manager**</mark><mark style="color:blue;">+)</mark> This switch is used to toggle disabling the panel.
 
 ### Mid-Queue Panel
 
@@ -168,4 +174,4 @@
 * **\[1] Power Key:** This key is used to power on or off the panel. Click it to change its state from on to off or from off to on.
 * **\[2] Standby Entrance:** This switch is used to enable/disable the invisible wall for the standard queue.
 * ~~**\[3] Fastpass+ Entrance:** Non Functional (for now).~~
-* **\[4] Disable Panel Switch:** <mark style="color:blue;">(Manager+)</mark> This switch is used to toggle disabling the panel.
+* **\[4] Disable Panel Switch:** <mark style="color:blue;">(</mark><mark style="color:blue;">**manager**</mark><mark style="color:blue;">+)</mark> This switch is used to toggle disabling the panel.

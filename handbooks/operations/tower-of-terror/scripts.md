@@ -1,25 +1,28 @@
 ---
-description: >-
-  Enhance guest experience with our optional pre-made speech scripts ready for
-  copy and paste. Feel free to make your own as long as it falls alongside the
-  theming and guidelines.
+description: Speech scripts (optional) for Cast Members to copy and paste
 ---
 
-# Scripts
+# 📘 Scripts
 
-### Greeter
+{% hint style="info" %}
+Enhance guest experience with our optional **pre-made speech scripts ready for copy and paste**. Feel free to make your own as long as it falls alongside the theming and guidelines.
+{% endhint %}
+
+***
+
+#### Greeter panel
 
 > Welcome to the Hollywood Tower Hotel. How many will be dropping in with us today?
 
 > Please head down the hall to your \[side]. Please stand back from the library doors as they will be opening towards you soon.
 
-### Preshow
+#### Preshow panel
 
 > Please enter the library making room for everyone. We ask that you draw your attention to the TV as we prepare your rooms.
 
 > Please exit the library through the door on your right and head towards the elevators. Your rooms are now ready.
 
-### Load elevator
+#### Load panel
 
 > Greetings, I am your Bellhop for today. Please find a number to stand on, the elevator will arrive shortly.
 
@@ -31,6 +34,6 @@ description: >-
 
 > Any last-minute questions or concerns? Too late!
 
-### Unload elevator
+#### Unload panel
 
 > Welcome back, I’m glad to see you all are still here and in one piece. Please exit to your left, and do drop with us again. Farewell.

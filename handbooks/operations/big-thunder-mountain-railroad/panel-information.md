@@ -1,4 +1,10 @@
-# Panel Information
+---
+description: Descriptive panel information for Cast Member reference
+---
+
+# 📕 Panel Information
+
+***
 
 * [Main Panel](panel-information.md#main-panel)
   * [Buttons & Indicators](panel-information.md#buttons-and-indicators)
@@ -19,7 +25,7 @@
   * Locked Restraint: _(Bottom Middle)_ - Indicates if the restraints are locked. If the light is illuminated then the restraints are locked. The light will only work if a train is in the station.&#x20;
   * Gates: _(Bottom Right)_ - Indicates if the gates are open. If the light is on then the gates are open.
 * **\[2] Safety Spiel:** This button is used to play the safety spiel. It will light up whilst the spiel is playing. Use when starting a load cycle. Please note that whilst this spiel is playing you wont be able to use the Slow Train spiel.
-* **\[3] Slow Train Spiel:** <mark style="color:yellow;">(Senior CM+)</mark> This button is used to play the slow train spiel. It will light up whilst the spiel is playing. Use only when dispatch is taking a very long time. Please note that whilst this spiel is playing you won't be able to use the Safety spiel.
+* **\[3] Slow Train Spiel:** <mark style="color:yellow;">(</mark><mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+)</mark> This button is used to play the slow train spiel. It will light up whilst the spiel is playing. Use only when dispatch is taking a very long time. Please note that whilst this spiel is playing you won't be able to use the Safety spiel.
 * **\[4] Power Switch:** This switch is used to power on or off the panel. Click it to change its state from on to off or from off to on.&#x20;
 * **\[5] Gate Selector:** This selector is used to open/close the gates. \[6] Lock Restraints: This button is used to lock the restraints. You'll be able to click it when you see it's flashing.&#x20;
 * **\[7] Release Restraints:** This button is used to release the restraints. You'll be able to click it when you see it flashing.&#x20;

@@ -1,11 +1,8 @@
 ---
-description: >-
-  ITS FUNDAMENTAL THAT YOU FOLLOW THE CORRECT ORDER OF ACTIONS WHEN OPERATING
-  THIS RIDE! IF YOU DON'T, THEN YOU MAY HAVE TO REPEAT EVERYTHING UNTIL YOU
-  PERFORM IT IN THE CORRECT ORDER.
+description: Order of operations for Cast Members to follow
 ---
 
-# Operating Procedures
+# 📗 Operating Procedures
 
 ***
 
@@ -71,7 +68,7 @@ Once this is done, you can re-open the queue rope once again and wait for the ne
 
 #### Entrance panel
 
-This position is mostly a greeter position. You should only close the entrance in certain situations, such as the ride being down, the queue being too full, or if instructed by a <mark style="color:blue;">Manager+</mark>.
+This position is mostly a greeter position. You should only close the entrance in certain situations, such as the ride being down, the queue being too full, or if instructed by a <mark style="color:blue;">**manager**</mark><mark style="color:blue;">+</mark>.
 
 #### Mid-queue panel
 

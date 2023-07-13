@@ -1,11 +1,8 @@
 ---
-description: >-
-  ITS FUNDAMENTAL THAT YOU FOLLOW THE CORRECT ORDER OF ACTIONS WHEN OPERATING
-  THIS RIDE, IF YOU DONT, THEN YOU MAY HAVE TO REPEAT EVERYTHING UNTIL YOU
-  PERFORM IT IN THE CORRECT ORDER
+description: Order of operations for Cast Members to follow
 ---
 
-# Operating Procedures
+# 📗 Operating Procedures
 
 * [Load station](operating-procedures.md#load-station)
   * [Main panel-only operations](operating-procedures.md#main-panel-only-operations)
@@ -53,7 +50,7 @@ Once the load station is free, you'll dispatch the train.
 
 You will start the cycle by clicking start pre-preshow, this will start the animation loop of the characters that will play whilst guests are entering the preshow. When you click the button, if manual doors is turned off, the exit doors will close and the entrance ones will open. Here you must ask people to enter the room and make space for everyone. Then, once everyone has entered the room, you can press the start preshow button, which will start the main preshow. When the exit doors open, instruct everyone to exit through the exit doors. Please wait until everyone has left to start the pre-preshow again _(which will close the exit doors)_. **Please also wait until the door in the preshow window has closed **_**(or the animation has stopped)**_** to start the pre-preshow.**
 
-If you're a <mark style="color:yellow;">Senior CM+</mark> , then you can enable manual doors if you wish to control the entrance and exit doors manually. When everyone has exited the room, before pressing the start pre-preshow button you need to make sure the exit doors are closed. Then, once the pre-preshow is running, you can open the entrance doors. Once everyone is in you can close the entrance doors and start the preshow. We recommend you then open the exit doors once the room lights return to normal (since they fade during the preshow); which is around when the manager calls a taxi.
+If you're a <mark style="color:yellow;">**senior cast member**</mark><mark style="color:yellow;">+</mark>, then you can enable manual doors if you wish to control the entrance and exit doors manually. When everyone has exited the room, before pressing the start pre-preshow button you need to make sure the exit doors are closed. Then, once the pre-preshow is running, you can open the entrance doors. Once everyone is in you can close the entrance doors and start the preshow. We recommend you then open the exit doors once the room lights return to normal (since they fade during the preshow); which is around when the manager calls a taxi.
 
 ## Queue
 

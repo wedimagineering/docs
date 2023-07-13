@@ -1,11 +1,10 @@
 ---
-description: >-
-  ITS FUNDAMENTAL THAT YOU FOLLOW THE CORRECT ORDER OF ACTIONS WHEN OPERATING
-  THIS RIDE, IF YOU DONT, THEN YOU MAY HAVE TO REPEAT EVERYTHING UNTIL YOU
-  PERFORM IT IN THE CORRECT ORDER
+description: Order of operations for Cast Members to follow
 ---
 
-# Operating Procedures
+# 📗 Operating Procedures
+
+***
 
 * [Main panel-only operations](operating-procedures.md#main-panel-only-operations)
 * [Multiple panel operations](operating-procedures.md#multiple-panel-operations)
