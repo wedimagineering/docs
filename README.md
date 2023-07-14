@@ -1,15 +1,27 @@
 ---
-description: server rest api documentation
-layout: editorial
+description: Server rest-api documentation for Magicband container
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
-# Documentation
+# 📄 Documentation
 
-### Account Services
-
-{% hint style="warning" %}
-The `/connect` endpoint can only be accessed from roblox servers, any other attempts at contact or use will be faced with denied access.
+{% hint style="danger" %}
+The `server.wedimagineering.com` hostname can only be accessed from roblox servers, the status page workers, and the bot container. Any other attempted access or use will be faced with a blocked message.
 {% endhint %}
+
+***
+
+### Player Services
 
 {% swagger method="get" path="/connect" baseUrl="https://server.wedimagineering.com" summary="Fetches player data (limited) on game initialization" %}
 {% swagger-description %}
@@ -21,15 +33,19 @@ api authorization
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="place" type="Number" required="true" %}
-place id
+roblox place id
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="id" type="Number" required="true" %}
-roblox id
+roblox user id
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="training" type="Boolean" required="true" %}
 is training server?
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="server" type="String" %}
+roblox jobid
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="success" %}
@@ -37,16 +53,16 @@ is training server?
 {
     "certifications": "char,tot,mtp,btmr,rnrc",
     "auth": true, // authorization (boolean)
-    "clearance": 0 // clearance level (1 - cast member, 2 - head/lead member, 3 - manager+)
+    "clearance": 0 // clearance level (1 - cast member, 2 - senior cast member, 3 - manager+)
 }
 ```
 {% endswagger-response %}
 
-{% swagger-response status="401: Unauthorized" description="error" %}
+{% swagger-response status="404: Not Found" description="error" %}
 ```json
 {
     "status": "error",
-    "message": "invalid key"
+    "message": "user doesn't exist"
 }
 ```
 {% endswagger-response %}
@@ -62,11 +78,11 @@ api authorization
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="id" type="Number" required="false" %}
-roblox id
+roblox user id
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="username" type="String" %}
-roblox username
+roblox user username
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" type="Number" name="discord" %}
@@ -78,12 +94,12 @@ discord id
 {
     "status": "success",
     "id": 1,
-    "_id": "62f6b211c393da0ce38e5dac", // database container id
+    "_id": "62f6b211c393da0ce38e5dac", // if database document exists
     "username": "Roblox",
     "points": 0,
     "rank": "Guest",
     "rankid": 0,
-    "cast": false, // cast status (boolean)
+    "cast": false,
     "certifications":["tot"]
 }
 ```
@@ -118,7 +134,7 @@ _(rnrc/tot/mtp/char/btmr)_
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="username" type="String" required="true" %}
-roblox username
+roblox user username
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="moderator" type="Number" required="true" %}
@@ -134,11 +150,13 @@ discord moderator id
 ```
 {% endswagger-response %}
 
-{% swagger-response status="403: Forbidden" description="error" %}
+{% swagger-response status="500: Internal Server Error" description="error" %}
 ```json
 {
     "status": "error",
-    "discord": "The requested user does not meet the rank pre-requisites to receive a certification."
+    "modifiedCount": 0,
+    "upsertedCount": 0,
+    "discord": "You've encountered a rare database error; if this is a reoccuring issue, please contact `JTmaveryk#0001`."
 }
 ```
 {% endswagger-response %}
@@ -176,11 +194,97 @@ discord moderator id
 ```
 {% endswagger-response %}
 
-{% swagger-response status="400: Bad Request" description="error" %}
+{% swagger-response status="500: Internal Server Error" description="error" %}
 ```json
 {
     "status": "error",
-    "discord": "**Roblox** doesn't have the **tot** certification."
+    "modifiedCount": 0,
+    "discord": "You've encountered a rare database error; if this is a reoccuring issue, please contact `JTmaveryk#0001`."
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+### Player Moderation
+
+{% swagger method="post" path="/ban/add" baseUrl="https://server.wedimagineering.com" summary="Ban player" %}
+{% swagger-description %}
+Used for granting player certifications, allowing authorization to utilize certification required actions; proving training and knowledge.
+{% endswagger-description %}
+
+{% swagger-parameter in="query" name="key" type="String" required="true" %}
+api authorization
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="reason" type="String" required="true" %}
+action reason
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="username" type="String" required="true" %}
+roblox user username
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="moderator" type="Number" required="true" %}
+discord moderator id
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="success" %}
+```json
+{
+    "status": "success",
+    "discord": "Successfully banned **JTmaveryk** ([172051854](https://www.roblox.com/users/172051854/profile)) for **bad boy**."
+}
+```
+{% endswagger-response %}
+
+{% swagger-response status="500: Internal Server Error" description="error" %}
+```json
+{
+    "status": "error",
+    "modifiedCount": 0,
+    "upsertedCount": 0,
+    "discord": "You've encountered a rare database error; if this is a reoccuring issue, please contact `JTmaveryk#0001`."
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+{% swagger method="post" path="/ban/remove" baseUrl="https://server.wedimagineering.com" summary="Unban player" %}
+{% swagger-description %}
+Used for granting player certifications, allowing authorization to utilize certification required actions; proving training and knowledge.
+{% endswagger-description %}
+
+{% swagger-parameter in="query" name="key" type="String" required="true" %}
+api authorization
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="reason" type="String" required="true" %}
+action reason
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="username" type="String" required="true" %}
+roblox user username
+{% endswagger-parameter %}
+
+{% swagger-parameter in="query" name="moderator" type="Number" required="true" %}
+discord moderator id
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="success" %}
+```json
+{
+    "status": "success",
+    "discord": "Successfully unbanned **JTmaveryk** ([172051854](https://www.roblox.com/users/172051854/profile)) for **good boy**."
+}
+```
+{% endswagger-response %}
+
+{% swagger-response status="500: Internal Server Error" description="error" %}
+```json
+{
+    "status": "error",
+    "modifiedCount": 0,
+    "discord": "You've encountered a rare database error; if this is a reoccuring issue, please contact `JTmaveryk#0001`."
 }
 ```
 {% endswagger-response %}
@@ -188,7 +292,7 @@ discord moderator id
 
 ### Application Services
 
-{% swagger method="post" path="/application/approve" baseUrl="https://server.wedimagineering.com" summary="Approve player application" expanded="false" %}
+{% swagger method="post" path="/application/approve" baseUrl="https://server.wedimagineering.com" summary="Approve player application" expanded="false" fullWidth="false" %}
 {% swagger-description %}
 Used for approving player applications, ranking the player in the group and approving entry into the university program.
 {% endswagger-description %}
@@ -214,11 +318,11 @@ moderator id
 ```
 {% endswagger-response %}
 
-{% swagger-response status="400: Bad Request" description="error" %}
+{% swagger-response status="500: Internal Server Error" description="error" %}
 ```json
 {
     "status": "error",
-    "message": "user is already trainee/cast"
+    "message": "couldn't rank user"
 }
 ```
 {% endswagger-response %}
@@ -256,7 +360,7 @@ question contents
 {% swagger-response status="200: OK" description="success" %}
 ```json
 {
-    "status": "succness",
+    "status": "success",
     "url": "https://pastebin.com/xxxxxxx"
 }
 ```
@@ -264,10 +368,6 @@ question contents
 {% endswagger %}
 
 ### Shift Services
-
-{% hint style="warning" %}
-The `/log` endpoint can only be accessed from roblox servers, any other attempts at contact or use will be faced with denied access.
-{% endhint %}
 
 {% swagger method="post" path="/log" baseUrl="https://server.wedimagineering.com" summary="Log player shift" %}
 {% swagger-description %}
@@ -279,11 +379,11 @@ api authorization
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" type="Number" name="id" required="true" %}
-roblox id
+roblox user id
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="place" type="Number" required="true" %}
-place id
+roblox place id
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="duration" type="Number" required="true" %}
@@ -295,7 +395,7 @@ is training server?
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="server" type="String" required="true" %}
-roblox jobid
+roblox place jobid
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="success" %}
@@ -306,11 +406,12 @@ roblox jobid
 ```
 {% endswagger-response %}
 
-{% swagger-response status="400: Bad Request" description="error" %}
+{% swagger-response status="500: Internal Server Error" description="error" %}
 ```json
 {
     "status": "error",
-    "message": "invalid certification"
+    "message": "error encountered",
+    "modifiedCount": 0
 }
 ```
 {% endswagger-response %}

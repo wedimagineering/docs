@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Documentation](README.md)
+* [📄 Documentation](README.md)
