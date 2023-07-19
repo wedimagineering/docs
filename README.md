@@ -33,6 +33,10 @@ If your application is <mark style="background-color:red;">declined</mark>, we s
 
 Visit our [online booking portal](https://outlook.office365.com/owa/calendar/university@wedimagineering.com/bookings/) and **select your desired certification and reserve your spot** by entering your Roblox username in the "Name" box and your email in the "Email" box (for verification purposes).&#x20;
 
+{% hint style="warning" %}
+If you feel uncomfortable sharing your email address (kept privately, used for verification and reminders) or making a temporary address, please contact the session host to be manually added.
+{% endhint %}
+
 If there are no available time slots, we suggest checking again in a day or semi-frequently to view if new openings with slots are available.
 
 Please ensure your availability for **at least an hour and a half** block from the start time to attend the booked session before booking, as you're reserving a spot and preventing another available student from attending. If you don't cancel over an hour before the scheduled event begins, consequences will apply. We will not allow late entries, any late arrivals will be recognized as absences.
