@@ -25,3 +25,4 @@
   * [✈ Soarin'](handbooks/operations/soarin/README.md)
     * [📕 Panel Information](handbooks/operations/soarin/panel-information.md)
     * [📗 Operating Procedures](handbooks/operations/soarin/operating-procedures.md)
+    * [📘 Scripts](handbooks/operations/soarin/scripts.md)
