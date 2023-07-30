@@ -26,3 +26,6 @@
     * [📕 Panel Information](handbooks/operations/soarin/panel-information.md)
     * [📗 Operating Procedures](handbooks/operations/soarin/operating-procedures.md)
     * [📘 Scripts](handbooks/operations/soarin/scripts.md)
+  * [🛩 Barnstormer](handbooks/operations/barnstormer/README.md)
+    * [📕 Panel Information](handbooks/operations/barnstormer/panel-information.md)
+    * [📗 Operating Procedures](handbooks/operations/barnstormer/operating-procedures.md)

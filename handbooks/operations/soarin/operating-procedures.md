@@ -20,6 +20,10 @@ description: Order of operations for Cast Members to follow
 
 ## Show panels
 
+{% hint style="warning" %}
+It is fundamental that you follow the correct order of actions when operating this ride. If you dont, then you may have to repeat everything until you perform it in the correct order!
+{% endhint %}
+
 When starting a new cycle, first wait for the preshow doors (check [indicator \[9\]](https://docs.wedimagineering.com/cast/handbooks/operations/soarin/panel-information)) to open. The next step is playing the safety spiel. If the preshow is being operated manually you can wait until they close the doors or let you know everyone has entered the show area. If the preshow is automatic, wait 15-30 seconds or check when everyone has entered and play the safety spiel. A bit later than halfway through the safety spiel you'll see that the blue lights on the floor will start doing their first sequence. It'll be from that moment where, if the preshow is automatic, the entrance doors will close. Once the safety spiel has finished playing, you can proceed to the next stage. This will differ a bit depending on if the side panels are being manned or not. The first thing to do _(which is common in both conditions)_ is to wait until everyone has sat down _(or at least you don't see anyone standing up from the main panel position)_.
 
 #### Main panel-only operations
