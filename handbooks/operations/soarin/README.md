@@ -16,6 +16,10 @@ Soarin' has **ten different panels**. One greeter panel, one queue panel, one pr
 [operating-procedures.md](operating-procedures.md)
 {% endcontent-ref %}
 
+{% content-ref url="scripts.md" %}
+[scripts.md](scripts.md)
+{% endcontent-ref %}
+
 ***
 
 ### Staff Commands
