@@ -26,7 +26,8 @@ All cast members are **expected to abide by the following cast-specific rules** 
    1. Upon disconnection, you must return immediately and continue or power-off the panel.
 5. Cast Members may not operate multiple panels at an attraction at the same time, this includes having two panels powered-on and completing actions on both panels.
 6. Cast Members may not wear unrealistic clothing while operating an attraction, this includes but is not limited to bulky clothing, large accessories, unrealistic distractions, or masks/hats that fully cover your face.
-7. Active operators or others may not complete operation actions on panels they are not presently operating while clocked-in. This includes restrictive use of panels being operated by other users, only if immediately necessary.
+7. Cast Members must wear their uniform and nametag (top-right menus in-game), while clocked-in and actively representing the company as an employee.
+8. Active operators or others may not complete operation actions on panels they are not presently operating while clocked-in. This includes restrictive use of panels being operated by other users, only if immediately necessary.
    1. Cast Members may not argue regarding the operator status of a panel or their duration of operation. Cast Members should use reasonable judgement and provide reasonable rotation and allow other involvement if present.
    2. Any attempts to exploit the clock/shift system in attempt to get points, including idling, or AFK-farming will result in immediate termination, employment blacklisting, and data wipe.
-8. Cast Members should use grammar at all times while clocked in (not limited to interactions with guests), this includes professional communications, professional attitude, and complete sentences.
+9. Cast Members should use grammar at all times while clocked in (not limited to interactions with guests), this includes professional communications, professional attitude, and complete sentences.
