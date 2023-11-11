@@ -30,3 +30,5 @@ Enhance guest experience with our optional **pre-made speech scripts ready for c
 
 > Hello there! How many people are in your party?
 
+> Awesome! Please find any gate you would like! Enjoy your ride!
+
