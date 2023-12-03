@@ -53,8 +53,8 @@ If the user could be found in the database, the response will contain `clearance
 
 ```json
 {
-    "certifications": [ string ], // comma separated
-    "clearance": [ number ] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
+    "certifications": [string], // comma separated
+    "clearance": [number] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
 }
 ```
 {% endswagger-response %}
@@ -90,13 +90,11 @@ If the request contains the `training` query boolean and it equals `true`, the r
 ```json
 {
     "certifications": 'char,tot,mtp,btmr,rnrc,srn,barn', // comma separated
-    "clearance": [ number ] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
+    "clearance": [number] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
 }
 ```
 {% endswagger-response %}
 {% endswagger %}
-
-
 
 {% swagger method="get" path="/profile" baseUrl="https://server.wedimagineering.com" summary="Fetches player data" %}
 {% swagger-description %}
