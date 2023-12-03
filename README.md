@@ -21,56 +21,86 @@ The `server.wedimagineering.com` hostname can only be accessed from roblox serve
 
 ***
 
-### Player Services
+### Player services
 
-{% swagger method="get" path="/connect" baseUrl="https://server.wedimagineering.com" summary="Fetches player data (limited) on game initialization" %}
+{% swagger method="post" path="/connect" baseUrl="https://server.wedimagineering.com" summary="Fetches player authentication data" %}
 {% swagger-description %}
-Used for receiving API data on users, including rank, clearance values, authorization, admin level, and more.
+Requested data upon player entry to game, recognised as authentication initialization. Returns data to check and modualize player permissions across experiences.
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="key" required="true" type="String" %}
 api authorization
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="place" type="Number" required="true" %}
-roblox place id
-{% endswagger-parameter %}
-
 {% swagger-parameter in="query" name="id" type="Number" required="true" %}
 roblox user id
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" name="training" type="Boolean" required="true" %}
+{% swagger-parameter in="query" name="training" type="Boolean" required="false" %}
 is training server?
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="server" type="String" %}
-roblox jobid
+roblox server jobid
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="success" %}
+{% swagger-parameter in="header" name="roblox-id" type="Number" %}
+roblox place id
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="success (user found)" %}
+If the user could be found in the database, the response will contain `clearance` and `certifications` relative to other pretaining conditions.
+
 ```json
 {
-    "certifications": "char,tot,mtp,btmr,rnrc",
-    "auth": true, // authorization (boolean)
-    "clearance": 0 // clearance level (1 - cast member, 2 - senior cast member, 3 - manager+)
+    "certifications": [ string ], // comma separated
+    "clearance": [ number ] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
 }
 ```
 {% endswagger-response %}
 
-{% swagger-response status="404: Not Found" description="error" %}
+{% swagger-response status="200: OK" description="success (user banned)" %}
+If the user could be found in the database and is banned, the response will contain `banned`, `reason`, and `moderator`.
+
 ```json
 {
-    "status": "error",
-    "message": "user doesn't exist"
+    "certifications": [string], // comma separated
+    "clearance": [number], // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
+    "banned": [boolean] , // true
+    "reason": [string],
+    "moderator": [number]
+}
+```
+{% endswagger-response %}
+
+{% swagger-response status="200: OK" description="success (user not found)" %}
+If the user could not be found in the database, the response will contain `clearance` and `certifications`, returning fixed non-permissive variables.
+
+```json
+{
+    "certifications": 'None', // comma separated
+    "clearance": 0, // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
+}
+```
+{% endswagger-response %}
+
+{% swagger-response status="200: OK" description="success (training server)" %}
+If the request contains the `training` query boolean and it equals `true`, the response will contain `certifications` and `clearance`. Every applicable certification is applied to the `certifications` field, while the `clearance` field is still variable and conditional.
+
+```json
+{
+    "certifications": 'char,tot,mtp,btmr,rnrc,srn,barn', // comma separated
+    "clearance": [ number ] // 1 - cast member, 2 - senior cast member, 3 - manager+, 4 - lead imagineer+
 }
 ```
 {% endswagger-response %}
 {% endswagger %}
 
-{% swagger method="get" path="/profile" baseUrl="https://server.wedimagineering.com" summary="Fetches player data (full)" %}
+
+
+{% swagger method="get" path="/profile" baseUrl="https://server.wedimagineering.com" summary="Fetches player data" %}
 {% swagger-description %}
-Used for receiving API data on users, including rank, clearance values, authorization, admin level, and more.
+Requested data upon query for player data, including but not limited to displaying internal database data stored or fetched for a player.
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="key" type="String" required="true" %}
@@ -85,32 +115,60 @@ roblox user id
 roblox user username
 {% endswagger-parameter %}
 
-{% swagger-parameter in="query" type="Number" name="discord" %}
-discord id
+{% swagger-parameter in="query" type="Number" name="user" %}
+discord user id
 {% endswagger-parameter %}
 
-{% swagger-response status="200: OK" description="success" %}
+{% swagger-response status="200: OK" description="data found / data not found" %}
 ```json
 {
-    "status": "success",
-    "id": 1,
-    "_id": "62f6b211c393da0ce38e5dac", // if database document exists
-    "username": "Roblox",
-    "points": 0,
-    "rank": "Guest",
-    "rankid": 0,
-    "cast": false,
-    "certifications":["tot"]
+    "status": 'success',
+    "message": [string],
+    "data": {
+        "_id": [string], // if data found
+        "id": [number],
+        "username": [string],
+        "points": [number],
+        "rank": [string],
+        "rankid": [number],
+        "cast": [boolean],
+        "certifications": [array]
+    }
+}
+```
+
+If the user could be found in the database, the response `message` will contain `data found` and `_id` will exist, all other data is variable, cast is conditional. If the user could not be found in the database, the response `message` will contain `data not found` and `_id` will not exist, all other data is variable, cast is conditional.
+{% endswagger-response %}
+
+{% swagger-response status="404: Not Found" description="user not found" %}
+If the user could not be found, the response will contain the `status` and `message`, displaying the error. The `data` array may be attached if applicable to display queried data.
+
+<pre class="language-json"><code class="lang-json">{
+    "status": 'error', 
+    "message": [string], 
+<strong>    "data": [array] // if applicable
+</strong>}
+</code></pre>
+{% endswagger-response %}
+
+{% swagger-response status="401: Unauthorized" description="invalid key" %}
+If the request is missing or sending an incorrect key query, the response will contain the `status` and `message`, displaying the error.
+
+```json
+{
+    "status": 'error', 
+    "message": [string]
 }
 ```
 {% endswagger-response %}
 
-{% swagger-response status="404: Not Found" description="error" %}
+{% swagger-response status="400: Bad Request" description="invalid query / no query" %}
+If the request is missing a required query, the response will contain the `status` and `message`, displaying the error.
+
 ```json
 {
-    "status": "error",
-    "message": "couldn't find user",
-    "discord": "We couldn't find the requested user, please ensure you typed it correctly and try again."
+    "status": 'error', 
+    "message": [string]
 }
 ```
 {% endswagger-response %}
@@ -128,9 +186,7 @@ api authorization
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="certification" type="String" required="true" %}
-certification 
-
-_(rnrc/tot/mtp/char/btmr)_
+certification _(rnrc/tot/mtp/char/btmr)_
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="username" type="String" required="true" %}
@@ -172,9 +228,7 @@ api authorization
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" type="String" name="certification" required="true" %}
-certification 
-
-_(rnrc/tot/mtp/char/btmr)_
+certification _(rnrc/tot/mtp/char/btmr)_
 {% endswagger-parameter %}
 
 {% swagger-parameter in="query" name="username" type="String" required="true" %}
