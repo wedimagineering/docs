@@ -27,3 +27,7 @@ Welcome onboard our operations department, we've created and provided documents 
 {% content-ref url="soarin/" %}
 [soarin](soarin/)
 {% endcontent-ref %}
+
+{% content-ref url="barnstormer/" %}
+[barnstormer](barnstormer/)
+{% endcontent-ref %}
