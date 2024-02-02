@@ -21,7 +21,7 @@ To get started, lets review the process quickly so you can understand just what 
 
 ***
 
-#### 1. <mark style="color:blue;">Application process</mark> -> apply in the Disney Careers game
+#### 1. <mark style="color:blue;">Application process</mark> -> apply in the hub
 
 Submit your application at the Guest Relations tent in our [Hub](https://roblox.com/games/4895128840) game and wait 24-48 hours for your application status to update.
 
