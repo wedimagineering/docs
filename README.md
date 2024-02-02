@@ -15,7 +15,7 @@ layout:
 
 # 👋 Introduction
 
-Congratulations on moving through the [University Program](http://127.0.0.1:5000/o/prcTQtUAJ5c6LNUu0XEa/s/3Wf47Q6r1KBtOnr7JCv8/) and becoming certified, and remember, this is only the beginning!
+Congratulations on moving through the [University Program](https://app.gitbook.com/o/prcTQtUAJ5c6LNUu0XEa/s/3Wf47Q6r1KBtOnr7JCv8/) and becoming certified, and remember, this is only the beginning!
 
 Lets review some important information including cast-specific [Rules & Guidelines](rules-and-guidelines.md), [Operation handbooks](handbooks/operations/), and more that'll make your job much easier!
 
