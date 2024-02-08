@@ -30,7 +30,8 @@ Full employee who has demonstrated noticeable leadership, responsibility, and ac
 → Manual Doors (preshow) in Tower of Terror\
 \-> Manual Control (main) in Mad Tea Party\
 \-> Section/flow Control (preshow) in Soarin' Around the World\
-→ Ability to post in [#this-or-that](https://discord.com/channels/301715666401230851/880269768454713364) (community games channel)
+→ Ability to post in [#this-or-that](https://discord.com/channels/301715666401230851/880269768454713364) (community games channel)\
+→ Ability to post in [#question-of-the-day](https://discord.com/channels/301715666401230851/881670445613580318) (community games channel)
 
 #### <mark style="color:blue;">Manager</mark>
 
