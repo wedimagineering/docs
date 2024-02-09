@@ -37,7 +37,7 @@ If your application is <mark style="background-color:green;">accepted</mark>, yo
 
 If your application is <mark style="background-color:red;">declined</mark>, we suggest improving the quality of your application or focusing on better and more detailed responses; however, we reserve the right to withhold your reason of decline.
 
-You will be unable to apply again for 31 days until your previous application has been deleted following the monthly threshold, since the last status update.
+You will be unable to apply again for **14 days** (since following the last status update) until your previous application expires and has been deleted.
 
 #### 2. <mark style="color:orange;">Hands-on training</mark> -> book a training session
 
